@@ -1,0 +1,11 @@
+1) To create a menu program for 
+a) creating a file, 
+b) Creating a directory, 
+c) copying a file,
+d) moving a file. 
+a. If the file exists already give the appropriate message.
+b. If the dir exists already give the appropriate error message.
+c. Source file should exist if not give a message, It should have read permission if not another message, Destination file either there or not, 
+if not there then create it and copy it. If there, then 
+ask whether to overwrite or not, if yes then overwrite it or 
+else give a message file exists already and not overwritten.
